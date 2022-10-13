@@ -1,0 +1,32 @@
+[
+  {
+    "id": "10001",
+    "brand": "FASTSIGNS",
+    "center_name": "FASTSIGNS AUSTIN",
+    "status": "Active",
+    "emails": [
+      {
+        "CreateDate": "October 12, 2022 at 10:59:09 AM UTC-5",
+        "emailAddress": "test@test.com",
+        "firstName": "Test",
+        "lastName": "Tester",
+        "id": "0eac8839-6e61-42f5-b55f-e2fa17b0262b",
+        "licenseType": "Unlimited",
+        "updateDate": "October 12, 2022 at 10:59:09 AM UTC-5",
+        "userType": "STORE"
+      }
+    ],
+    "licenses": [
+      {
+        "CreateDate": "October 12, 2022 at 10:59:09 AM UTC-5",
+        "licenseType": "STORE",
+        "status": "ASSIGNED",
+        "updatedBy": "SYSTEM",
+        "updateDate": "October 12, 2022 at 10:59:09 AM UTC-5",
+        "renewDate": "October 12, 2022 at 10:59:09 AM UTC-5",
+        "expirationDate": "October 12, 2022 at 10:59:09 AM UTC-5",
+        "id": "0eac8839-6e61-42f5-b55f-e2fa17b0262b"
+      }
+    ]
+  }
+]
